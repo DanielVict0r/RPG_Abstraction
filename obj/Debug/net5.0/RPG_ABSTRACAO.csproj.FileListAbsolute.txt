@@ -1,0 +1,16 @@
+C:\Users\cliente\Desktop\RascunhoDio\RPG_ABSTRACAO\bin\Debug\net5.0\RPG_ABSTRACAO.exe
+C:\Users\cliente\Desktop\RascunhoDio\RPG_ABSTRACAO\bin\Debug\net5.0\RPG_ABSTRACAO.deps.json
+C:\Users\cliente\Desktop\RascunhoDio\RPG_ABSTRACAO\bin\Debug\net5.0\RPG_ABSTRACAO.runtimeconfig.json
+C:\Users\cliente\Desktop\RascunhoDio\RPG_ABSTRACAO\bin\Debug\net5.0\RPG_ABSTRACAO.runtimeconfig.dev.json
+C:\Users\cliente\Desktop\RascunhoDio\RPG_ABSTRACAO\bin\Debug\net5.0\RPG_ABSTRACAO.dll
+C:\Users\cliente\Desktop\RascunhoDio\RPG_ABSTRACAO\bin\Debug\net5.0\ref\RPG_ABSTRACAO.dll
+C:\Users\cliente\Desktop\RascunhoDio\RPG_ABSTRACAO\bin\Debug\net5.0\RPG_ABSTRACAO.pdb
+C:\Users\cliente\Desktop\RascunhoDio\RPG_ABSTRACAO\obj\Debug\net5.0\RPG_ABSTRACAO.csproj.AssemblyReference.cache
+C:\Users\cliente\Desktop\RascunhoDio\RPG_ABSTRACAO\obj\Debug\net5.0\RPG_ABSTRACAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cliente\Desktop\RascunhoDio\RPG_ABSTRACAO\obj\Debug\net5.0\RPG_ABSTRACAO.AssemblyInfoInputs.cache
+C:\Users\cliente\Desktop\RascunhoDio\RPG_ABSTRACAO\obj\Debug\net5.0\RPG_ABSTRACAO.AssemblyInfo.cs
+C:\Users\cliente\Desktop\RascunhoDio\RPG_ABSTRACAO\obj\Debug\net5.0\RPG_ABSTRACAO.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Desktop\RascunhoDio\RPG_ABSTRACAO\obj\Debug\net5.0\RPG_ABSTRACAO.dll
+C:\Users\cliente\Desktop\RascunhoDio\RPG_ABSTRACAO\obj\Debug\net5.0\ref\RPG_ABSTRACAO.dll
+C:\Users\cliente\Desktop\RascunhoDio\RPG_ABSTRACAO\obj\Debug\net5.0\RPG_ABSTRACAO.pdb
+C:\Users\cliente\Desktop\RascunhoDio\RPG_ABSTRACAO\obj\Debug\net5.0\RPG_ABSTRACAO.genruntimeconfig.cache
